@@ -1,27 +1,7 @@
 ﻿  fg_callbacks.c
-  fg_cursor.c
-  fg_display.c
-  fg_ext.c
-  fg_font.c
-  fg_font_data.c
-  fg_gamemode.c
-  fg_geometry.c
-  fg_gl2.c
-  fg_init.c
-  fg_input_devices.c
-  fg_joystick.c
-  fg_main.c
-  fg_misc.c
-  fg_overlay.c
-  fg_spaceball.c
-  fg_state.c
-  fg_stroke_mono_roman.c
   fg_stroke_roman.c
-  fg_structure.c
-  正在生成代码...
-  正在编译...
   fg_teapot.c
-C:\Users\james\Desktop\LiquidHazard\freeglut\src\fg_teapot.c(1,1): warning C4819: 该文件包含不能在当前代码页(949)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\james\source\repos\LiquidHazard\LiquidHazard\freeglut\src\fg_teapot.c(1,1): warning C4819: 该文件包含不能在当前代码页(949)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
   fg_videoresize.c
   fg_window.c
   fg_menu.c
@@ -39,5 +19,6 @@ C:\Users\james\Desktop\LiquidHazard\freeglut\src\fg_teapot.c(1,1): warning C4819
   fg_structure_mswin.c
   fg_window_mswin.c
   fgSetupPixelFormat(): there is still some work to do here!
+  xparsegeometry_repl.c
   正在生成代码...
-  freeglut_static.vcxproj -> C:\Users\james\Desktop\LiquidHazard\LiquidHazard-1.0.0\LiquidHazard\freeglut\Debug\freeglut_staticd.lib
+  freeglut_static.vcxproj -> C:\Users\james\source\repos\LiquidHazard\LiquidHazard\LiquidHazard-1.0.0\LiquidHazard\freeglut\Debug\freeglut_staticd.lib

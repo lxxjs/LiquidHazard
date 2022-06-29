@@ -1,3 +1,5 @@
 ﻿  LiquidHazard.cpp
-C:\Users\james\Desktop\LiquidHazard\LiquidHazard-1.0.0\LiquidHazard\Testbed\Tests\Player.h(49,1): warning C4305: “=”: 从“double”到“float32”截断
-  Testbed.vcxproj -> C:\Users\james\Desktop\LiquidHazard\LiquidHazard-1.0.0\LiquidHazard\Testbed\Debug\Testbed.exe
+C:\Users\james\source\repos\LiquidHazard\LiquidHazard\LiquidHazard-1.0.0\LiquidHazard\Testbed\Tests\Player.h(49,1): warning C4305: “=”: 从“double”到“float32”截断
+  ParticleParameter.cpp
+  正在生成代码...
+C:\Users\james\source\repos\LiquidHazard\LiquidHazard\LiquidHazard-1.0.0\LiquidHazard\Testbed\Framework\ParticleParameter.cpp : fatal error C1090: PDB API 调用失败，错误代码“3”: C:\Users\james\source\repos\LiquidHazard\LiquidHazard\LiquidHazard-1.0.0\LiquidHazard\Testbed\Testbed.dir\Debug\vc142.pdb
