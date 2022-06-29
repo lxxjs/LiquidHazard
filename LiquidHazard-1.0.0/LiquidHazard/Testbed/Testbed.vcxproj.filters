@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Framework\Main.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\Render.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\Test.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\Arrow.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\FullscreenUI.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\ParticleParameter.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Tests\LiquidHazard.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Framework\Main.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Render.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Test.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Arrow.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\FullscreenUI.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\ParticleParameter.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests\CollisionData.h">
+      <Filter>Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests\LiquidHazard.h">
+      <Filter>Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests\Obstacle.h">
+      <Filter>Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests\Player.h">
+      <Filter>Tests</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Framework">
+      <UniqueIdentifier>{AB9486EB-B5D6-4BDC-99D3-E30EAA04AED4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tests">
+      <UniqueIdentifier>{B2CF4BA2-3047-4570-BE75-D532F8FF77E1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
